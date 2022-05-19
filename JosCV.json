@@ -1,7 +1,7 @@
 {
 	"nombre": "Josías Habacuc Castillo Collí",
 	"fechaNacimiento": "25 de Noviembre de 1990",
-	"Resumen": "",
+	"Resumen": "Desarrollador web y mobil con 7 años de experiencia, muy motivado, extrovertido y colaborativo. Encargado de desarrollar aplicaciones web y mobiles complicadas y dar soluciones a problemas complejos. Apasionado por proporcionar a los clientes una experiencia diferente en el área tecnológica debido al conocimiento adquirido en la Univerdad Tecnológica de la Riviera Maya y el Hotel Mayakoba. Acostumbrado a cumplir con los estandares de la compañia y dar el mejor trato a los clientes.",
 	"telefono": "9845698332",
 	"correo":"2002430@utrivieramaya.edu.mx",
 	"puestoSolicitado": "Programador Jr",
@@ -24,32 +24,38 @@
 	],
 	"experienciaLaboral": [
 		{
-			"empresa": "",
-			"Puesto": "",
-			"fechaIngreso": "",
-			"fechaTermino": "",
+			"empresa": "Autozone",
+			"Puesto": "Vendedor de Refacciones",
+			"fechaIngreso": "25/Julio/2012",
+			"fechaTermino": "08/Marzo/2015",
 			"responsabilidades": []
 		},
 		{
-			"empresa": "",
-			"Puesto": "",
-			"fechaIngreso": "",
-			"fechaTermino": "",
+			"empresa": "Hotel Mayakoba",
+			"Puesto": "Gerente en Sistemas",
+			"fechaIngreso": "11/Enero/2017",
+			"fechaTermino": "18/Septiembre/2021",
 			"responsabilidades":[]
 		}
 	],
 	"educacion": [
 		{
-			"escuela": "Vicente Guerrero",
-			"gradoEstudio": "3 años",
-			"fechaIngreso": "2013",
-			"fechaTermino": "2016"
+			"escuela": "Adriana Beatriz Cupul Itza",
+			"gradoEstudio": "Primaria",
+			"fechaIngreso": "Julio 2009",
+			"fechaTermino": "Julio 2014"
 		},
 		{
-			"escuela": "Cetec Riviera Maya",
-			"gradoEstudio": "2 años",
-			"fechaIngreso": "2017",
-			"fechaTermino": "2019"
+			"escuela": "Ko'oten Kaambal",
+			"gradoEstudio": "Secundaria",
+			"fechaIngreso": "Julio 2014",
+			"fechaTermino": "Julio 2017"
+		},
+		{
+			"escuela": "Colegio de Bachilleres",
+			"gradoEstudio": "Bachillerato",
+			"fechaIngreso": "Julio 2017",
+			"fechaTermino": "Julio 2020"
 		}
 	]
 }
