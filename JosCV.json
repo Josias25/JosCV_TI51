@@ -1,0 +1,55 @@
+{
+	"nombre": "Josías Habacuc Castillo Collí",
+	"fechaNacimiento": "25 de Noviembre de 1990",
+	"Resumen": "",
+	"telefono": "9845698332",
+	"correo":"2002430@utrivieramaya.edu.mx",
+	"puestoSolicitado": "Programador Jr",
+	"lenguages": [
+		"java",
+		"html",
+		"css",
+		"android"
+	],
+	"baseDeDatos": [
+		"Mysql",
+		"HeidiSQL",
+		"MariaDB"
+	],
+	"paqueteria": [
+		"word",
+		"powerpoint",
+		"excel",
+		"publisher"
+	],
+	"experienciaLaboral": [
+		{
+			"empresa": "",
+			"Puesto": "",
+			"fechaIngreso": "",
+			"fechaTermino": "",
+			"responsabilidades": []
+		},
+		{
+			"empresa": "",
+			"Puesto": "",
+			"fechaIngreso": "",
+			"fechaTermino": "",
+			"responsabilidades":[]
+		}
+	],
+	"educacion": [
+		{
+			"escuela": "Vicente Guerrero",
+			"gradoEstudio": "3 años",
+			"fechaIngreso": "2013",
+			"fechaTermino": "2016"
+		},
+		{
+			"escuela": "Cetec Riviera Maya",
+			"gradoEstudio": "2 años",
+			"fechaIngreso": "2017",
+			"fechaTermino": "2019"
+		}
+	]
+}
