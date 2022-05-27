@@ -28,7 +28,7 @@
 			"Puesto": "Vendedor de Refacciones",
 			"fechaIngreso": "25/Julio/2012",
 			"fechaTermino": "08/Marzo/2015",
-			"responsabilidades": []
+			"responsabilidades": ["Atender clientes. Cotizar Precios. Revisar Almacen"]
 		},
 		{
 			"empresa": "Hotel Mayakoba",
@@ -39,18 +39,6 @@
 		}
 	],
 	"educacion": [
-		{
-			"escuela": "Adriana Beatriz Cupul Itza",
-			"gradoEstudio": "Primaria",
-			"fechaIngreso": "Julio 2009",
-			"fechaTermino": "Julio 2014"
-		},
-		{
-			"escuela": "Ko'oten Kaambal",
-			"gradoEstudio": "Secundaria",
-			"fechaIngreso": "Julio 2014",
-			"fechaTermino": "Julio 2017"
-		},
 		{
 			"escuela": "Colegio de Bachilleres",
 			"gradoEstudio": "Bachillerato",
